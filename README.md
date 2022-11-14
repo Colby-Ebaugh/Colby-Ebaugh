@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Colby-Ebaugh
-- 👀 I’m interested in Data Science and Python. Coding in general. Video game Devlopment, and writing
+- 👀 I’m interested in Data Science, Python, and Ethical Hacking/Pen Testing as Well As Overall Coding and Video game Devlopment, and writing
 - 🌱 I’m currently learning Ethical Hacking and Kali Linux 
 - 💞️ I’m looking to collaborate on Anything to practice my skills!
 <!---
